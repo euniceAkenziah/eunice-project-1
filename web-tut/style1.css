@@ -1,0 +1,15 @@
+Body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color:aqua;
+    /*background-image:url(./images/Untitledbackground.png)*/
+    margin-right: 40rem;
+    margin-left: 50px;
+}
+#header{
+    text-align: center;
+}
+#main{
+    color: blue;
+}
